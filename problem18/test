@@ -1,0 +1,315 @@
+75 95
+Setting 64 to 75
+Assign 47 as right child of 75
+75 17
+64 47
+Setting 64 to 75
+Setting 82 to 64
+Assign 35 as right child of 75
+Assign 87 as right child of 64
+75 18
+64 35
+82 87
+Setting 64 to 75
+Setting 82 to 64
+Setting 10 to 82
+Assign 4 as right child of 75
+Assign 82 as right child of 64
+Assign 47 as right child of 82
+75 20
+64 4
+82 82
+10 47
+Setting 64 to 75
+Setting 82 to 64
+Setting 10 to 82
+Setting 65 to 10
+Assign 1 as right child of 75
+Assign 23 as right child of 64
+Assign 75 as right child of 82
+Assign 3 as right child of 10
+75 19
+64 1
+82 23
+10 75
+65 3
+Setting 64 to 75
+Setting 82 to 64
+Setting 10 to 82
+Setting 65 to 10
+Setting 34 to 65
+Assign 2 as right child of 75
+Assign 77 as right child of 64
+Assign 73 as right child of 82
+Assign 7 as right child of 10
+Assign 63 as right child of 65
+75 88
+64 2
+82 77
+10 73
+65 7
+34 63
+Setting 64 to 75
+Setting 82 to 64
+Setting 10 to 82
+Setting 65 to 10
+Setting 34 to 65
+Setting 67 to 34
+Assign 65 as right child of 75
+Assign 4 as right child of 64
+Assign 28 as right child of 82
+Assign 6 as right child of 10
+Assign 16 as right child of 65
+Assign 70 as right child of 34
+75 99
+64 65
+82 4
+10 28
+65 6
+34 16
+67 70
+Setting 64 to 75
+Setting 82 to 64
+Setting 10 to 82
+Setting 65 to 10
+Setting 34 to 65
+Setting 67 to 34
+Setting 92 to 67
+Assign 41 as right child of 75
+Assign 26 as right child of 64
+Assign 56 as right child of 82
+Assign 83 as right child of 10
+Assign 40 as right child of 65
+Assign 80 as right child of 34
+Assign 70 as right child of 67
+75 41
+64 41
+82 26
+10 56
+65 83
+34 40
+67 80
+92 70
+Setting 64 to 75
+Setting 82 to 64
+Setting 10 to 82
+Setting 65 to 10
+Setting 34 to 65
+Setting 67 to 34
+Setting 92 to 67
+Setting 33 to 92
+Assign 48 as right child of 75
+Assign 72 as right child of 64
+Assign 33 as right child of 82
+Assign 47 as right child of 10
+Assign 32 as right child of 65
+Assign 37 as right child of 34
+Assign 16 as right child of 67
+Assign 94 as right child of 92
+75 41
+64 48
+82 72
+10 33
+65 47
+34 32
+67 37
+92 16
+33 94
+Setting 64 to 75
+Setting 82 to 64
+Setting 10 to 82
+Setting 65 to 10
+Setting 34 to 65
+Setting 67 to 34
+Setting 92 to 67
+Setting 33 to 92
+Setting 29 to 33
+Assign 71 as right child of 75
+Assign 44 as right child of 64
+Assign 65 as right child of 82
+Assign 25 as right child of 10
+Assign 43 as right child of 65
+Assign 91 as right child of 34
+Assign 52 as right child of 67
+Assign 97 as right child of 92
+Assign 51 as right child of 33
+75 53
+64 71
+82 44
+10 65
+65 25
+34 43
+67 91
+92 52
+33 97
+29 51
+Setting 64 to 75
+Setting 82 to 64
+Setting 10 to 82
+Setting 65 to 10
+Setting 34 to 65
+Setting 67 to 34
+Setting 92 to 67
+Setting 33 to 92
+Setting 29 to 33
+Setting 14 to 29
+Assign 11 as right child of 75
+Assign 33 as right child of 64
+Assign 28 as right child of 82
+Assign 77 as right child of 10
+Assign 73 as right child of 65
+Assign 17 as right child of 34
+Assign 78 as right child of 67
+Assign 39 as right child of 92
+Assign 68 as right child of 33
+Assign 17 as right child of 29
+75 70
+64 11
+82 33
+10 28
+65 77
+34 73
+67 17
+92 78
+33 39
+29 68
+14 17
+Setting 64 to 75
+Setting 82 to 64
+Setting 10 to 82
+Setting 65 to 10
+Setting 34 to 65
+Setting 67 to 34
+Setting 92 to 67
+Setting 33 to 92
+Setting 29 to 33
+Setting 14 to 29
+Setting 57 to 14
+Assign 71 as right child of 75
+Assign 52 as right child of 64
+Assign 38 as right child of 82
+Assign 17 as right child of 10
+Assign 14 as right child of 65
+Assign 91 as right child of 34
+Assign 43 as right child of 67
+Assign 58 as right child of 92
+Assign 50 as right child of 33
+Assign 27 as right child of 29
+Assign 29 as right child of 14
+75 91
+64 71
+82 52
+10 38
+65 17
+34 14
+67 91
+92 43
+33 58
+29 50
+14 27
+57 29
+Setting 64 to 75
+Setting 82 to 64
+Setting 10 to 82
+Setting 65 to 10
+Setting 34 to 65
+Setting 67 to 34
+Setting 92 to 67
+Setting 33 to 92
+Setting 29 to 33
+Setting 14 to 29
+Setting 57 to 14
+Setting 48 to 57
+Assign 66 as right child of 75
+Assign 4 as right child of 64
+Assign 68 as right child of 82
+Assign 89 as right child of 10
+Assign 53 as right child of 65
+Assign 67 as right child of 34
+Assign 30 as right child of 67
+Assign 73 as right child of 92
+Assign 16 as right child of 33
+Assign 69 as right child of 29
+Assign 87 as right child of 14
+Assign 40 as right child of 57
+75 63
+64 66
+82 4
+10 68
+65 89
+34 53
+67 67
+92 30
+33 73
+29 16
+14 69
+57 87
+48 40
+Setting 64 to 75
+Setting 82 to 64
+Setting 10 to 82
+Setting 65 to 10
+Setting 34 to 65
+Setting 67 to 34
+Setting 92 to 67
+Setting 33 to 92
+Setting 29 to 33
+Setting 14 to 29
+Setting 57 to 14
+Setting 48 to 57
+Setting 31 to 48
+Assign 62 as right child of 75
+Assign 98 as right child of 64
+Assign 27 as right child of 82
+Assign 23 as right child of 10
+Assign 9 as right child of 65
+Assign 70 as right child of 34
+Assign 98 as right child of 67
+Assign 73 as right child of 92
+Assign 93 as right child of 33
+Assign 38 as right child of 29
+Assign 53 as right child of 14
+Assign 60 as right child of 57
+Assign 4 as right child of 48
+75 4
+64 62
+82 98
+10 27
+65 23
+34 9
+67 70
+92 98
+33 73
+29 93
+14 38
+57 53
+48 60
+31 4
+Setting 64 to 75
+Setting 82 to 64
+Setting 10 to 82
+Setting 65 to 10
+Setting 34 to 65
+Setting 67 to 34
+Setting 92 to 67
+Setting 33 to 92
+Setting 29 to 33
+Setting 14 to 29
+Setting 57 to 14
+Setting 48 to 57
+Setting 31 to 48
+Setting 23 to 31
+75 4
+64 62
+82 98
+10 27
+65 23
+34 9
+67 70
+92 98
+33 73
+29 93
+14 38
+57 53
+48 60
+31 4
