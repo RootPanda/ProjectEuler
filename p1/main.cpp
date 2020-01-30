@@ -1,14 +1,19 @@
-#include <string>
+#include <vector>
 #include <iostream>
-
-#include <boost/optional.hpp>
 
 int main(int argc, char **argv)
 {
-    auto optionalString = boost::optional<std::string>{};
-    std::cout << "1. The optional string is currently: '" << (optionalString ? *optionalString : std::string{"boost::none"}) << "'." << std::endl;
-    optionalString = std::string{"some value"};
-    std::cout << "2. The optional string is currently: '" << (optionalString ? *optionalString : std::string{"boost::none"}) << "'." << std::endl;
+    auto multiplesOfThreeOrFive = std::vector<int>{};
+    for (auto num = 1; num < 1000; ++num) {
+        if (num % 3 == 0 || num % 5 == 0) {
+            multiplesOfThreeOrFive.push_back(num);
+        }
+    }
+    auto sum = 0;
+    for (const auto& multiple : multiplesOfThreeOrFive) {
+        sum += multiple;
+    }
+    std::cout << "Sum of numbers below 1000: " << sum << std::endl;
 
     return 0;
 }
