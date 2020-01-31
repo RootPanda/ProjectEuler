@@ -41,15 +41,19 @@ inline void simpleSieve(long int startInt, long int endInt, std::vector<int>& kn
     }
 }
 
-// Find all primes below n usng the segmented sieve of Eratosthenes.
+// Find all prime numbers up to n using the segmented sieve of Eratosthenes.
 inline std::vector<int> segmentedSieve(long int n) {
     auto primes = std::vector<int>{};
     auto startIndex = 2l;
-    auto endIndex = 10000l;
-    while (endIndex < sqrt(n)) {
+    const auto increment = static_cast<long int>(std::floor(sqrt(n)));
+    auto endIndex = increment;
+    while (endIndex <= n) {
         simpleSieve(startIndex, endIndex, primes);
+        if (endIndex == n) {
+            break;
+        }
         startIndex = endIndex + 1;
-        endIndex *= 2;
+        endIndex = std::min(endIndex + increment, n);
     }
     return primes;
 }

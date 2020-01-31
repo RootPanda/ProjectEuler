@@ -5,7 +5,7 @@
 
 int main(int argc, char** argv) {
     const auto number = 600851475143;
-    auto primes = segmentedSieve(number);
+    auto primes = segmentedSieve(sqrt(number));
     auto largestPrimeFactor = 1;
     for (const auto& prime : primes) {
         if (number % prime == 0) {
