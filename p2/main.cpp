@@ -1,8 +1,7 @@
-#include <vector>
 #include <iostream>
+#include <vector>
 
-int main(int argc, char **argv)
-{
+int main(int argc, char** argv) {
     auto fibonacciNumbers = std::vector<int>{1, 2};
     auto sum = 2;
     while (fibonacciNumbers.back() < 4000000) {

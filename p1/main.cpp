@@ -1,8 +1,7 @@
-#include <vector>
 #include <iostream>
+#include <vector>
 
-int main(int argc, char **argv)
-{
+int main(int argc, char** argv) {
     auto multiplesOfThreeOrFive = std::vector<int>{};
     for (auto num = 1; num < 1000; ++num) {
         if (num % 3 == 0 || num % 5 == 0) {
