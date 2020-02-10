@@ -10,7 +10,6 @@ int main(int argc, char** argv) {
     };
     auto longestChain = LongestChainInfo{};
     chainLength[1u] = 1;
-    //for (auto startNum = 2u; startNum < 17u; ++startNum) {
     for (auto startNum = 2u; startNum < 1'000'000u; ++startNum) {
         auto currentChainLength = 0u;
         auto collatzBurndown = startNum;
